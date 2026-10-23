@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[9885,["37","static/chunks/37-7d4f1fc46af091a1.js","806","static/chunks/806-5a24a96598c1c468.js","160","static/chunks/160-f62b65c24591f520.js","812","static/chunks/app/%5B%5B...path%5D%5D/page-69913a8c4a05f580.js"],"default"]
+4:I[8337,[],"OutletBoundary"]
+8:I[8337,[],"ViewportBoundary"]
+9:I[8337,[],"MetadataBoundary"]
+b:I[7668,[],""]
+c:I[242,[],""]
+f:I[2160,["37","static/chunks/37-7d4f1fc46af091a1.js","160","static/chunks/160-f62b65c24591f520.js","177","static/chunks/app/layout-6c7f78bc5049749d.js"],"AppProvider"]
+10:I[4513,["37","static/chunks/37-7d4f1fc46af091a1.js","160","static/chunks/160-f62b65c24591f520.js","177","static/chunks/app/layout-6c7f78bc5049749d.js"],"DemoControls"]
+11:I[4513,["37","static/chunks/37-7d4f1fc46af091a1.js","160","static/chunks/160-f62b65c24591f520.js","177","static/chunks/app/layout-6c7f78bc5049749d.js"],"DemoFrame"]
+12:I[4563,["37","static/chunks/37-7d4f1fc46af091a1.js","160","static/chunks/160-f62b65c24591f520.js","345","static/chunks/app/not-found-eff336ffae5bfc8b.js"],"default"]
+:HL["/vialiora-demo/versions/v2/_next/static/css/2fcd6aeeb223e9cc.css","style"]
+7:X
+e:X
+e:C
+0:{"buildId":"otHMtkui4uqi-WFtfTboU","data":[{"rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","p",null,{"children":"SIM Demo"}],"children":["$","$L3",null,{"segments":["cases","case-demo-new"]}]}],null,["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$2",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"SIM | Shandong International Medical"}],["$","meta","1",{"name":"description","content":"International patient mobile application prototype for Shandong. Synthetic demo workflows."}],["$","link","2",{"rel":"manifest","href":"/vialiora-demo/versions/v2/manifest.webmanifest"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"SIM"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vialiora-demo/versions/v2/_next/static/css/2fcd6aeeb223e9cc.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$Lf",null,{"children":[["$","$L10",null,{}],["$","$L11",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}],"notFound":[["$","$L12",null,{}],[]]}]}]]}]}]}]]}],"isPartial":"$@13","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+5:null
+7:300
+15:true
+7:C
+14:0
+a:"$undefined"
+d:"$undefined"
+13:"$undefined"
+6:"$undefined"

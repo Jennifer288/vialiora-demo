@@ -1,0 +1,2 @@
+:HL["/vialiora-demo/versions/v31/_next/static/css/cb1dedb94210dea8.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"path","param":{"type":"oc","key":"hospitals/provincial/departments/dentistry","siblings":["_not-found","_global-error"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"9AJBNvQ2o2rI5HkxT1YKb"}

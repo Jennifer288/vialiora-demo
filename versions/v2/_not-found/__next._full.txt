@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[2160,["37","static/chunks/37-7d4f1fc46af091a1.js","160","static/chunks/160-f62b65c24591f520.js","177","static/chunks/app/layout-6c7f78bc5049749d.js"],"AppProvider"]
+3:I[4513,["37","static/chunks/37-7d4f1fc46af091a1.js","160","static/chunks/160-f62b65c24591f520.js","177","static/chunks/app/layout-6c7f78bc5049749d.js"],"DemoControls"]
+4:I[4513,["37","static/chunks/37-7d4f1fc46af091a1.js","160","static/chunks/160-f62b65c24591f520.js","177","static/chunks/app/layout-6c7f78bc5049749d.js"],"DemoFrame"]
+5:I[7668,[],""]
+6:I[242,[],""]
+7:I[4563,["37","static/chunks/37-7d4f1fc46af091a1.js","160","static/chunks/160-f62b65c24591f520.js","345","static/chunks/app/not-found-eff336ffae5bfc8b.js"],"default"]
+8:I[2641,[],"ClientPageRoot"]
+b:I[8337,[],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:I[8337,[],"ViewportBoundary"]
+11:I[8337,[],"MetadataBoundary"]
+13:I[7616,[],"default",1]
+:HL["/vialiora-demo/versions/v2/_next/static/css/2fcd6aeeb223e9cc.css","style"]
+e:X
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"f":[[["",{"children":["_not-found",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vialiora-demo/versions/v2/_next/static/css/2fcd6aeeb223e9cc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L8",null,{"Component":"$7","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@9","$@a"]}}],null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],{},null,false,null]},null,false,"$e"]},null,false,null],["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Lf",null,{"children":"$L10"}],["$","div",null,{"hidden":true,"children":["$","$L11",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L12"}]}]}],null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"otHMtkui4uqi-WFtfTboU"}
+e:C
+9:{}
+a:"$0:f:0:1:1:children:1:children:0:props:children:0:props:serverProvidedParams:params"
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+12:[["$","title","0",{"children":"SIM | Shandong International Medical"}],["$","meta","1",{"name":"description","content":"International patient mobile application prototype for Shandong. Synthetic demo workflows."}],["$","link","2",{"rel":"manifest","href":"/vialiora-demo/versions/v2/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"SIM"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}]]

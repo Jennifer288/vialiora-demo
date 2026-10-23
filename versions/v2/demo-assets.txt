@@ -1,0 +1,3 @@
+SIM online review assets
+Hospital SVGs: original geometric schematics created for this demo, not hospital photographs. Permitted for use in this SIM demo; no third-party images, fonts or logos embedded.
+Third-party PDF.js runtime assets retain their bundled LICENSE files.
